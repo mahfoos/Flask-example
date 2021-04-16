@@ -76,4 +76,4 @@ jobs:
         
         
       - name: Print nice message pn completion of CD Pipline 
-        run: echo "CD Pipeline part finished successfully 
+        run: echo "CD Pipeline part finished successfully"
